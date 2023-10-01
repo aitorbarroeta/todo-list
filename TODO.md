@@ -8,8 +8,8 @@ this is the
   - [x] Descripcion
   - [x] Getting Started
     - [x] Prerequisites
-    - [ ] Installing
-  - [ ] Deployment
-  - [ ] Built With
-  - [ ] Authors
-  - [ ] License
+    - [x] Installing
+  - [x] Deployment
+  - [x] Built With
+  - [x] Authors
+  - [x] License
